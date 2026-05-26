@@ -21,27 +21,28 @@ A simple backend API built with FastAPI and MongoDB for managing notes with user
 ## 🧱 Project Structure
 
 ```bash
-CRUD/
-    note.py
-    user.py
-
-Models/
-    note.py
-    user.py
-
-Routes/
-    config.py
-    db.py
-    main.py
-    note.py
-    user.py
-
-utils/
-    authentication.py
-    password.py
-
-.gitignore
-deletedata.py
+Add
+    CRUD/
+        note.py
+        user.py
+    
+    Models/
+        note.py
+        user.py
+    
+    Routes/
+        config.py
+        db.py
+        main.py
+        note.py
+        user.py
+    
+    utils/
+        authentication.py
+        password.py
+    
+    .gitignore
+    deletedata.py
 ```
 
 ---
